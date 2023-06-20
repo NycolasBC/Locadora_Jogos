@@ -1,0 +1,11 @@
+﻿# Comentários começam com #
+# Ignorar arquivos de configuração
+config.ini
+config.yml
+
+# Ignorar diretórios
+logs/
+temp/
+
+# Ignorar todos os arquivos com a extensão .log
+*.log
