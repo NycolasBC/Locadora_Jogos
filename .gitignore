@@ -9,3 +9,7 @@ temp/
 
 # Ignorar todos os arquivos com a extensão .log
 *.log
+
+# Ignorar todos os arquivos com a extensão .cache
+*.cache
+*.vsidx
