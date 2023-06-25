@@ -13,3 +13,6 @@ temp/
 # Ignorar todos os arquivos com a extensão .cache
 *.cache
 *.vsidx
+*.dll
+*.xml
+*.pdb
